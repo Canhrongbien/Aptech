@@ -1,2 +1,2 @@
-# Aptech
+# Venushandicrafts
 project1_sem1_group7
