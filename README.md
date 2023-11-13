@@ -3,14 +3,14 @@
 [![Demo video](https://img.youtube.com/vi/sEgDnwM-zfo&ab/0.jpg)](https://www.youtube.com/watch?v=sEgDnwM-zfo&ab)
 <a  name="readme-top"></a>
   
-<!-- DURABLE FURNITURES -->
+<!-- VENUS HANDICRAFTS -->
 
 <br  />
 
 <div  align="center">
 
 
-<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/src/assets/images/Logo-DurableFunitures-main.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="![Alt text](src/assets/images/Logo-Venus-main.png)"  alt="Logo"  width="768px"  height="auto">
 
 </a>
 
