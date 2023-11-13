@@ -10,7 +10,7 @@
 <div  align="center">
 
 
-<img  src="![Alt text](src/assets/images/Logo-Venus-main.png)"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://github.com/Canhrongbien/venushandicraftsgroup7/blob/main/src/assets/images/Logo-Venus-main.png"  alt="Logo"  width="768px"  height="auto">
 
 </a>
 
