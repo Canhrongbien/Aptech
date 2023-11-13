@@ -1,6 +1,3 @@
-# Venushandicrafts
-# project1_sem1_group7
-[![Demo video](https://img.youtube.com/vi/sEgDnwM-zfo&ab/0.jpg)](https://www.youtube.com/watch?v=sEgDnwM-zfo&ab)
 <a  name="readme-top"></a>
   
 <!-- VENUS HANDICRAFTS -->
@@ -16,14 +13,14 @@
 
   
 
-<h3  align="center">DURABLE FURNITURES</h3>
+<h3  align="center">VENUS HANDICRAFTS</h3>
 
   DURABLE FURNITURES is selling various types of Furniture’s. The company advertises by distributing the pamphlets, advertising on television and so on. Due to rapid development in internet field, the company decides to launch a website where people will get all the information about the various products available with them easily.
   <br  />
-  <a  href="https://github.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture.git"><strong>Explore the source »</strong></a>
-  <a  href="https://github.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/tree/0bdf01110342da7cd513cae701f6f8eed61816cd/documents" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="https://github.com/Canhrongbien/venushandicraftsgroup7"><strong>Explore the source »</strong></a>
+  <a  href="https://github.com/Canhrongbien/venushandicraftsgroup7/tree/main/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://e-project-fpt-aptech-group1-durable-furniture.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/sEgDnwM-zfo&ab" target="_blank">Video</a>
+  <br  /><a  href="https://venushandicraftsgroup7.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/sEgDnwM-zfo&ab" target="_blank">Video</a>
 
 <img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
 
