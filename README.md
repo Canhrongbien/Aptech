@@ -49,29 +49,35 @@ Link on the home page must be included such as Home, About Us, Gallery, Contact 
 Handicrafts such as:</br>
 -	Iron Handicrafts</br>
 -	Glass Handicrafts</br>
+-	Brass Handicrafts</br>
+-	Wood Handicrafts</br>
+-	Aluminium Handicrafts</br>
+-	Handicraft Decorative</br>
+-	Tables wares</br>
+-	Home Décor</br>
+-	Candle Accessories</br>
+-	And other additional products</br>
 </li>
 <li>
--	Iron Handicrafts</br>
+Navigation of the project must be made smooth.</br>
 </li>
 <li>
--	Glass Handicrafts</br>
+Sitemap</br>
 </li>
 <li>
-A brief summary of features of individual products should be displayed on the Web Page along with the product but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.</br>
+Gallery</br>
 </li>
 <li>
-The user should also be able to compare the various products of different as well as similar brands.</br>
+FAQs</br>
 </li>
-<li>
-There should be a “Contact Us” page which will have the Address of the Company which is as follows and the mail address which when clicked will invoke the local mail client from where they can send an email. Address of the Company should be displayed using GeoLocation API (eg. GoogleMaps).</br>
 </ol>
 
  ## Members of group
- ### Leader : Nguyen Duc Linh `Student1477171`
+ ### Leader : Lê Thị Ngọc Hân `Student1491647`
 #### Members:
-Trần Nhựt Huy `Student1477551` </br>
-Nguyễn Anh Vũ `Student1477471` </br>
-Trần Việt Khôi `Student1477470` </br>
+Nguyễn Minh Triết `Student1491504` </br>
+Trần Quốc Việt `Student1491723` </br>
+Nguyễn Khánh `Student1491479` </br>
 
 
 
