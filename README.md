@@ -15,14 +15,14 @@
 
 <h3  align="center">VENUS HANDICRAFTS</h3>
 
-  DURABLE FURNITURES is selling various types of Furniture’s. The company advertises by distributing the pamphlets, advertising on television and so on. Due to rapid development in internet field, the company decides to launch a website where people will get all the information about the various products available with them easily.
+VENUS HANDICRAFTS sells many different types of handicrafts. With the mission of spreading national identity to your country and integrating the world's elite, VENUS has been affirming its position in the domestic and international markets.
   <br  />
   <a  href="https://github.com/Canhrongbien/venushandicraftsgroup7"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/Canhrongbien/venushandicraftsgroup7/tree/main/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
   <br  /><a  href="https://venushandicraftsgroup7.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/sEgDnwM-zfo&ab" target="_blank">Video</a>
 
-<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://github.com/Canhrongbien/venushandicraftsgroup7/blob/main/src/assets/images/fullpage.png"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:
@@ -40,19 +40,19 @@
 ### Features </br>
 <ol>
 <li>
-The Home Page should be created making use of Sections with a suitable logo.</br>
+The Home Page should be created with proper sections, graphics and with a suitable logo </br>
 </li>
 <li>
-Home Page should contain details of furniture’s and home decors with suitable images. </br>
+Link on the home page must be included such as Home, About Us, Gallery, Contact information, Handicrafts products,  </br>
 </li>
 <li>
-The site should display a menu which will contain the options for brief introduction about the various furniture’s available, location of the shop and any other information if required.</br>
+Handicrafts such as:</br>
 </li>
 <li>
-The information should be categorized according to the brand names of the products like if a User wants to see only “DURIAN” products or any other companies products then he/she can click on a Link/button/menu etc and can see only that Brand products.</br>
+-	Iron Handicrafts</br>
 </li>
 <li>
-When a user selects any particular brand, a list of products for that brand will be displayed</br>
+-	Glass Handicrafts</br>
 </li>
 <li>
 A brief summary of features of individual products should be displayed on the Web Page along with the product but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.</br>
