@@ -47,6 +47,8 @@ Link on the home page must be included such as Home, About Us, Gallery, Contact 
 </li>
 <li>
 Handicrafts such as:</br>
+-	Iron Handicrafts</br>
+-	Glass Handicrafts</br>
 </li>
 <li>
 -	Iron Handicrafts</br>
