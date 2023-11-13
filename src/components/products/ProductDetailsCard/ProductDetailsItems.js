@@ -2,8 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import './ProductDetailsItems.scss'
 import detailsicon from '../../../stories/icons/more-information.png'
-import carticon from '../../../stories/icons/add-to-cart.png'
-import compareicon from '../../../stories/icons/compare.png'
+import carticon from '../../../stories/icons/addtocart.png'
+import compareicon from '../../../stories/icons/compareremoved.png'
 
 
 function ProductDetailsItems(props) {
@@ -33,12 +33,12 @@ function ProductDetailsItems(props) {
         </div>
       </div>
       <div className='productdetails-button' >
-        <Link to={`./detail/${item.id}`} className='productdetails-button-details'>
+        {/* <Link to={`./detail/${item.id}`} className='productdetails-button-details'>
           <button className='productdetails-button-details'>
             <p className='productdetails-button-p'>Details</p>
             <img src={detailsicon} alt="detailsicon" className='productdetails-button-icon' />
           </button>
-        </Link>
+        </Link> */}
         <button className='productdetails-button-addToCart' onClick={() => props.handleCarts({ id: `${item.id}`, name: `${item.name}`, numberProduct: 1, imgPreview: { path: `${item.images}` }, price: `${item.price}`, colorstate: `${item.colorstate}` })}>
           <p className='productdetails-button-p' >Add To Cart</p>
           <img src={carticon} alt="carticon" className='productdetails-button-icon' />
@@ -48,7 +48,12 @@ function ProductDetailsItems(props) {
           <p className='productdetails-button-p'>Compare</p>
           <img src={compareicon} alt="compareicon" className='productdetails-button-icon' />
         </button>
-
+        <Link to={`./detail/${item.id}`} className='productdetails-button-details'>
+          <button className='productdetails-button-details'>
+            <p className='productdetails-button-p'>Details</p>
+            <img src={detailsicon} alt="detailsicon" className='productdetails-button-icon' />
+          </button>
+        </Link>
       </div>
     </div>
   )

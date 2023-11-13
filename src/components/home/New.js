@@ -12,7 +12,7 @@ function New() {
         <h5 className='new-button'>
            <Link to="/products" >
                 More... &nbsp;
-                <i className="fa-solid fa-arrow-right"></i>
+                <i className="fa-caret-right"></i>
             </Link>
         </h5>
         <div className='new-container' >

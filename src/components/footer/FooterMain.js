@@ -2,9 +2,11 @@ import './FooterMain.scss'
 import React from 'react'
 import logo from '../../assets/images/Logo-Venus-main.png'
 import facebook from '../../stories/icons/facebook.png'
-import twitter from '../../stories/icons/twitter.png'
+import twitter from '../../stories/icons/t2.png'
 import instagram from '../../stories/icons/instagram.png'
 import messenger from '../../stories/icons/messenger-1.png'
+import appstore from '../../stories/icons/app-store.png'
+import tiktok from '../../stories/icons/tiktok.png'
 
 import { Link } from 'react-router-dom'
 function FooterMain() {
@@ -30,7 +32,10 @@ function FooterMain() {
       {id : '1', info :'Facebook', path :'https://www.facebook.com/', icon : facebook },
       {id : '2', info :'Twitter' , path :'https://twitter.com/', icon : twitter},
       {id : '3', info :'Instagram', path: 'https://www.instagram.com/', icon: instagram},
-      {id : '4', info :'Messenger', path: 'https://www.messenger.com//', icon: messenger}
+      {id : '4', info :'Messenger', path: 'https://www.messenger.com//', icon: messenger},
+      {id : '5', info :'AppStore', path: 'https://www.apple.com/vn/app-store/', icon: appstore},
+      {id : '6', info :'TikTok', path: 'https://www.tiktok.com/vi-VN/', icon: tiktok}
+
     ]
   }
   return (
@@ -92,6 +97,8 @@ function FooterMain() {
                 <strong>&nbsp; Email:&nbsp;&nbsp;&nbsp;</strong>
                 venushandicrafts@email.com.vn
                 <div className='contact-wrapper-content-map'>
+                  
+                  <p>FANPAGE</p>
                 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61553144678476%26locale%3Dvi_VN&tabs=timeline&width=280&height=100&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="160" style={{border:0}} scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                 </div>
             </p>
