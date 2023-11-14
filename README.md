@@ -20,7 +20,7 @@ VENUS HANDICRAFTS sells many different types of handicrafts. With the mission of
   <a  href="https://github.com/Canhrongbien/venushandicraftsgroup7"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/Canhrongbien/venushandicraftsgroup7/tree/main/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://venushandicraftsgroup7.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/sEgDnwM-zfo&ab" target="_blank">Video</a>
+  <br  /><a  href="https://venushandicraftsgroup7.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/RpZGR9v9iaA&ab" target="_blank">Video</a>
 
 <img  src="https://github.com/Canhrongbien/venushandicraftsgroup7/blob/main/src/assets/images/fullpage.png"  alt="Logo"  width="768px"  height="auto">
 

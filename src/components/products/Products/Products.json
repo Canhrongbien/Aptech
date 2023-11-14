@@ -777,15 +777,15 @@
         "desc2" : "MATERIALS: For handcrafting our stained glass items, we use only top-quality materials: Spectrum Glass, Wissmach Glass, Tin, Copper Foil, Black Patina, Wire, Glass Paint",
         
         "images" :[
-            {"id": "1", "Name": "pic1", "use": "desc" , "path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird1.png"},
-            {"id": "2", "Name": "pic2", "use": "desc" , "path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird 2.png"},
-            {"id": "3", "Name": "pic3", "use": "desc" , "path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird 3.png"}
+            {"id": "1", "Name": "pic1", "use": "desc" , "path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird1.png"},
+            {"id": "2", "Name": "pic2", "use": "desc" , "path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird 2.png"},
+            {"id": "3", "Name": "pic3", "use": "desc" , "path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird 3.png"}
         ],
         "imagesPreview":[
-            {"path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird 4.png"},
-            {"path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird 3.png"},
-            {"path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird 2.png"},
-            {"path": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird1.png"}
+            {"path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird 4.png"},
+            {"path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird 3.png"},
+            {"path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird 2.png"},
+            {"path": "/data/glasshandicrafts/flyinghummingbird/flyinghummingbird1.png"}
             
         ],
         "imagesdms": "/data/glasshandicrafts/flyinghummingbird /flyinghummingbird dms.png",
